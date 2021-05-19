@@ -27,8 +27,6 @@ version = "2020.2"
 
 project {
 
-    buildType(createDeployBuildConfiguration(DslContext.settingsRoot))
-
     buildType(Build)
 }
 
