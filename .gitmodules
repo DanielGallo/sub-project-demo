@@ -1,0 +1,4 @@
+[submodule "main-settings-project"]
+	path = .teamcity/modules
+	url = https://github.com/DanielGallo/main-settings-project.git
+	branch = main
